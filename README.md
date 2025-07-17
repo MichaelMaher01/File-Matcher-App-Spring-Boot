@@ -1,4 +1,4 @@
-# MichaelMaher01-File-Matcher-App-Spring-Boot
+# File-Matcher-App-Spring-Boot
 A performance-efficient Spring Boot application that compares a reference text file with a directory of text files, and calculates the similarity score (based on word matching) for each file.
 
 # Features
